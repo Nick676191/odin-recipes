@@ -1,1 +1,2 @@
 # odin-recipes
+This is a website that contains a list of my favorite recipes. Each of the recipes in the list link to another webpage where I provide an image of the finished product, a description of this meal, ingredients needed, and the proper steps to execute the meal.
